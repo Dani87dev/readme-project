@@ -10,3 +10,5 @@
 
 ### Java, Docker, Git i GitHub
 
+#### Aquesta línea s'ha escrit desde el ordinador
+
