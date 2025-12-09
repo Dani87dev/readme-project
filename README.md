@@ -17,3 +17,8 @@
 #### Aquesta línea s'ha escrit desde Github
 
 ### Aquesta frase s'ha escrit a la branca numero 2
+
+## Clonació del projecte
+
+### Per clonar aquest repostitori al teu ordinador:
+### git clone git@github.com:Dani87dev/readme-project.git
