@@ -1,42 +1,12 @@
-\# Projecte fictici de documnetació del Alumne Dani VIlà per Git i GitHub
+# Projecte fictici de documnetació del Alumne Dani VIlà per Git i GitHub
 
+## Aquest projecte d'aquí serveix per aprendre Git pas a pas.
 
+## Objectiu del projecte
 
+### Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràctiques de versionat.
 
+## Stack Tecnològic
 
-
-
-\### Aquest projecte d'aquí serveix per aprendre Git pas a pas.
-
-
-
-
-
-
-
-\## Objectiu del projecte
-
-
-
-
-
-
-
-\### Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràctiques de versionat.
-
-
-
-
-
-
-
-\## Stack Tecnològic
-
-
-
-
-
-
-
-\### Java, Docker, Git i GitHub
+### Java, Docker, Git i GitHub
 
