@@ -2,7 +2,7 @@
 
 
 
-\##Aquest projecte d'aquí serveix per aprendre Git pas a pas.
+\### Aquest projecte d'aquí serveix per aprendre Git pas a pas.
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràctiques de versionat.
+\### Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràctiques de versionat.
 
 
 
@@ -18,7 +18,7 @@ Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràcti
 
 
 
-Java, Docker, Git i GitHub
+\### Java, Docker, Git i GitHub
 
 
 
