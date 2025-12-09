@@ -12,3 +12,15 @@
 
 Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràctiques de versionat.
 
+
+
+\## Stack Tecnològic
+
+
+
+Java, Docker, Git i GitHub
+
+
+
+
+
