@@ -2,7 +2,7 @@
 
 
 
-\##Aquest projecte serveix per aprendre Git pas a pas.
+\##Aquest projecte d'aquí serveix per aprendre Git pas a pas.
 
 
 
