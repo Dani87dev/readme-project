@@ -12,3 +12,5 @@
 
 #### Aquesta línea s'ha escrit desde el ordinador
 
+#### Aquesta línea s'ha escrit desde Github
+
