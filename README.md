@@ -10,6 +10,8 @@
 
 ### Java, Docker, Git i GitHub
 
+## Instalació
+
 #### Aquesta línea s'ha escrit desde el ordinador
 
 #### Aquesta línea s'ha escrit desde Github
